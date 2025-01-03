@@ -24,4 +24,8 @@
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
+## Math
+|  |
+| ------- |
+| [2955-account-balance-after-rounded-purchase](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2955-account-balance-after-rounded-purchase) |
 <!---LeetCode Topics End-->
