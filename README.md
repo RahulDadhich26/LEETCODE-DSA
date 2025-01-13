@@ -66,4 +66,20 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0021-merge-two-sorted-lists) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
