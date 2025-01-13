@@ -58,4 +58,12 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0031-next-permutation) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
