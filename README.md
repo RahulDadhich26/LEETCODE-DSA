@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0009-palindrome-number) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2955-account-balance-after-rounded-purchase) |
 ## String Matching
 |  |
