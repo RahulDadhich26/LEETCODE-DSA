@@ -27,6 +27,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0125-valid-palindrome) |
 | [0583-delete-operation-for-two-strings](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [1524-string-matching-in-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0142-linked-list-cycle-ii) |
 ## Linked List
