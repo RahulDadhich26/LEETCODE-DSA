@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0118-pascals-triangle) |
@@ -72,6 +73,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0141-linked-list-cycle) |
@@ -117,4 +119,8 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
