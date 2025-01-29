@@ -15,6 +15,7 @@
 | [0303-range-sum-query-immutable](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1524-string-matching-in-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1524-string-matching-in-an-array) |
 | [2043-cyclically-rotating-a-grid](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2043-cyclically-rotating-a-grid) |
@@ -129,4 +130,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
