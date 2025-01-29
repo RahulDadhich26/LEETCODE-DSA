@@ -1,63 +1,33 @@
 class Solution {
 public:
-    string minWindow(string s, string t) {
-    if (s.size() < t.size()) {
-        return "";
-    }
+    string minWindow(string s, string p) {
+        int len1 = s.length() ;
+        int len2 = p.length() ;
 
-    // Frequency map for characters in t
-    unordered_map<char, int> targetMap;
-    for (char c : t) {
-        targetMap[c]++;
-    }
-
-    // Variables for the sliding window
-    int left = 0, right = 0;
-    int minLength = INT_MAX; // Track the minimum window length
-    int minStart = 0;        // Starting index of the minimum window
-    int required = targetMap.size(); // Number of unique characters in t
-    int matchCount = 0;      // Number of characters matched so far
-
-    // Frequency map for the current window
-    unordered_map<char, int> windowMap;
-
-    // Sliding window algorithm
-    while (right < s.size()) {
-        char currentChar = s[right];
-
-        // Expand the window by including the current character
-        if (targetMap.find(currentChar) != targetMap.end()) {
-            windowMap[currentChar]++;
-            if (windowMap[currentChar] == targetMap[currentChar]) {
-                matchCount++;
-            }
+        if(len1 < len2) return "";
+        vector<int>hashP(256,0);
+        vector<int>hashS(256,0);
+        for(int i=0;i<len2;i++){
+            hashP[p[i]]++;
         }
-
-        // Contract the window from the left if all characters are matched
-        while (matchCount == required && left <= right) {
-            // Update the minimum window
-            int currentWindowLength = right - left + 1;
-            if (currentWindowLength < minLength) {
-                minLength = currentWindowLength;
-                minStart = left;
-            }
-
-            // Move the left pointer to try a smaller window
-            char leftChar = s[left];
-            if (targetMap.find(leftChar) != targetMap.end()) {
-                windowMap[leftChar]--;
-                if (windowMap[leftChar] < targetMap[leftChar]) {
-                    matchCount--;
+        int start = 0, start_idx = -1 , min_len = INT_MAX;
+        int count = 0;
+        for(int j = 0;j<len1;j++){
+            hashS[s[j]]++;
+            if(hashP[s[j]] != 0 && hashS[s[j]] <= hashP[s[j]]) count++;
+            if(count == len2){
+                while(hashS[s[start]] > hashP[s[start]] || hashP[s[start]] == 0){
+                    if(hashS[s[start]] > hashP[s[start]]) hashS[s[start]]--;
+                    start++;
+                }
+                int len = j - start + 1;
+                if(min_len > len){
+                    min_len = len ;
+                    start_idx = start;
                 }
             }
-            left++;
         }
-
-        // Move the right pointer to expand the window
-        right++;
-    }
-
-    // If no valid window is found, return an empty string
-    return (minLength == INT_MAX) ? "" : s.substr(minStart, minLength);
+        if(start_idx == -1) return "";
+        return s.substr(start_idx , min_len);
     }
 };
