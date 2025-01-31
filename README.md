@@ -24,6 +24,7 @@
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1524-string-matching-in-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1524-string-matching-in-an-array) |
 | [2043-cyclically-rotating-a-grid](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2043-cyclically-rotating-a-grid) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0525-contiguous-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1043-grid-illumination](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1043-grid-illumination) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Matrix
 |  |
 | ------- |
@@ -46,6 +48,7 @@
 | [0037-sudoku-solver](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0073-set-matrix-zeroes) |
 | [2043-cyclically-rotating-a-grid](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2043-cyclically-rotating-a-grid) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## String
 |  |
 | ------- |
