@@ -16,6 +16,7 @@
 | [0079-word-search](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0212-word-search-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0212-word-search-ii) |
 | [0287-find-the-duplicate-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0525-contiguous-array) |
@@ -50,6 +51,7 @@
 | [0037-sudoku-solver](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0212-word-search-ii) |
 | [2043-cyclically-rotating-a-grid](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2043-cyclically-rotating-a-grid) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## String
@@ -60,6 +62,7 @@
 | [0079-word-search](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0212-word-search-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [1524-string-matching-in-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -176,8 +179,10 @@
 | [0051-n-queens](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0212-word-search-ii) |
 ## Trie
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
