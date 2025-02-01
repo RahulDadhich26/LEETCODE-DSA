@@ -38,6 +38,7 @@
 | [0141-linked-list-cycle](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0202-happy-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0525-contiguous-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1043-grid-illumination](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1043-grid-illumination) |
@@ -58,6 +59,7 @@
 | [0076-minimum-window-substring](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0125-valid-palindrome) |
+| [0208-implement-trie-prefix-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0583-delete-operation-for-two-strings](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [1524-string-matching-in-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -146,6 +148,7 @@
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0303-range-sum-query-immutable](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0303-range-sum-query-immutable) |
 ## Binary Search
 |  |
@@ -173,4 +176,8 @@
 | [0051-n-queens](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0079-word-search) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
