@@ -24,6 +24,7 @@
 | [0525-contiguous-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1014-k-closest-points-to-origin](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1043-grid-illumination](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1043-grid-illumination) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1524-string-matching-in-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1524-string-matching-in-an-array) |
@@ -85,6 +86,7 @@
 | [0007-reverse-integer](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0202-happy-number) |
+| [1014-k-closest-points-to-origin](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1014-k-closest-points-to-origin) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2955-account-balance-after-rounded-purchase) |
 ## String Matching
 |  |
@@ -203,6 +205,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1014-k-closest-points-to-origin) |
 ## Sliding Window
 |  |
 | ------- |
@@ -237,12 +240,19 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0414-third-maximum-number) |
+| [1014-k-closest-points-to-origin](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
