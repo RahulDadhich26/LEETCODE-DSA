@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0125-valid-palindrome) |
@@ -232,6 +233,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 ## Binary Search Tree
 |  |
