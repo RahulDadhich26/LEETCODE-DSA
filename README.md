@@ -66,6 +66,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0125-valid-palindrome) |
@@ -99,6 +100,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0118-pascals-triangle) |
 | [0583-delete-operation-for-two-strings](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0583-delete-operation-for-two-strings) |
@@ -234,6 +236,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 ## Binary Search Tree
 |  |
