@@ -76,6 +76,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0212-word-search-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0394-decode-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0394-decode-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [1524-string-matching-in-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -147,6 +148,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0394-decode-string) |
 ## Tree
 |  |
 | ------- |
@@ -241,6 +243,7 @@
 | [0020-valid-parentheses](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0394-decode-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0503-next-greater-element-ii) |
 ## Binary Search Tree
