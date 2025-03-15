@@ -20,6 +20,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0496-next-greater-element-i) |
@@ -107,6 +108,7 @@
 | [0032-longest-valid-parentheses](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0118-pascals-triangle) |
+| [0322-coin-change](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0322-coin-change) |
 | [0583-delete-operation-for-two-strings](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0583-delete-operation-for-two-strings) |
 ## Bit Manipulation
 |  |
@@ -182,6 +184,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
