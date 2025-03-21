@@ -20,6 +20,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0198-house-robber) |
 | [0212-word-search-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0212-word-search-ii) |
+| [0213-house-robber-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0303-range-sum-query-immutable) |
@@ -115,6 +116,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0583-delete-operation-for-two-strings) |
