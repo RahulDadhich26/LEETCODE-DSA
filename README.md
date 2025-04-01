@@ -105,6 +105,7 @@
 | [2383-add-two-integers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2556-convert-the-temperature) |
+| [2630-alternating-digit-sum](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2630-alternating-digit-sum) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2955-account-balance-after-rounded-purchase) |
 ## String Matching
 |  |
