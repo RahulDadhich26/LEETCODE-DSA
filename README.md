@@ -103,6 +103,7 @@
 | [0202-happy-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0202-happy-number) |
 | [1014-k-closest-points-to-origin](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1014-k-closest-points-to-origin) |
 | [2383-add-two-integers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2556-convert-the-temperature) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2955-account-balance-after-rounded-purchase) |
 ## String Matching
@@ -316,4 +317,8 @@
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
