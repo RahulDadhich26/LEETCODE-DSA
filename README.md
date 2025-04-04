@@ -40,6 +40,7 @@
 | [1635-number-of-good-pairs](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1635-number-of-good-pairs) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [2043-cyclically-rotating-a-grid](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2043-cyclically-rotating-a-grid) |
+| [2058-concatenation-of-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2058-concatenation-of-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Hash Table
 |  |
@@ -137,6 +138,7 @@
 |  |
 | ------- |
 | [2043-cyclically-rotating-a-grid](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2043-cyclically-rotating-a-grid) |
+| [2058-concatenation-of-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
