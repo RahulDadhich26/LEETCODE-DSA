@@ -13,6 +13,7 @@
 | [0051-n-queens](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -144,6 +145,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -278,6 +280,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0414-third-maximum-number) |
