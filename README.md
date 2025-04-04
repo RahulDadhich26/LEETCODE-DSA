@@ -23,6 +23,7 @@
 | [0212-word-search-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0322-coin-change) |
@@ -56,6 +57,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0268-missing-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0525-contiguous-array) |
@@ -105,6 +107,7 @@
 | [0007-reverse-integer](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1635-number-of-good-pairs](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2383-add-two-integers) |
@@ -133,6 +136,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0287-find-the-duplicate-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Simulation
@@ -231,6 +235,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
@@ -282,6 +287,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0414-third-maximum-number) |
 | [1014-k-closest-points-to-origin](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1014-k-closest-points-to-origin) |
