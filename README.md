@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0037-sudoku-solver) |
@@ -151,6 +152,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0125-valid-palindrome) |
