@@ -1,14 +1,13 @@
 class Solution {
 public:
     int numIdenticalPairs(vector<int>& nums) {
-        unordered_map<int,int>mpp;
+        vector<int>ans(101);
         int total = 0;
-        for(auto i:nums){
-            mpp[i]++;
+        for(int i=0;i<nums.size();i++){
+            ans[nums[i]]++;
         }
-        for(auto i : mpp){
-            int count = i.second;
-            total += count * (count - 1) / 2;
+        for(int i=1;i<101;i++){
+            total += (ans[i]) * (ans[i] - 1) / 2;
         }
         return total;
     }
