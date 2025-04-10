@@ -209,6 +209,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
@@ -218,6 +219,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
@@ -332,6 +334,7 @@
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0547-number-of-provinces) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
@@ -345,4 +348,8 @@
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2491-smallest-even-multiple) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
