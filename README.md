@@ -39,6 +39,7 @@
 | [0525-contiguous-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0792-binary-search](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0792-binary-search) |
 | [1014-k-closest-points-to-origin](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1043-grid-illumination](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1043-grid-illumination) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
@@ -252,6 +253,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0792-binary-search](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0792-binary-search) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Greedy
 |  |
