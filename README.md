@@ -30,6 +30,7 @@
 | [0268-missing-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0414-third-maximum-number) |
@@ -247,6 +248,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0307-range-sum-query-mutable) |
 ## Binary Search
 |  |
 | ------- |
@@ -362,4 +364,12 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0547-number-of-provinces) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
