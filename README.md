@@ -116,6 +116,7 @@
 | [0002-add-two-numbers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0268-missing-number) |
@@ -137,6 +138,7 @@
 | [0032-longest-valid-parentheses](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -382,5 +384,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
