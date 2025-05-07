@@ -40,6 +40,7 @@
 | [0518-coin-change-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0630-course-schedule-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0630-course-schedule-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0792-binary-search) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0902-minimum-number-of-refueling-stops) |
@@ -272,6 +273,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0011-container-with-most-water) |
+| [0630-course-schedule-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0630-course-schedule-iii) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0902-minimum-number-of-refueling-stops) |
 ## Divide and Conquer
 |  |
@@ -323,12 +325,14 @@
 | [0268-missing-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0414-third-maximum-number) |
+| [0630-course-schedule-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0630-course-schedule-iii) |
 | [1014-k-closest-points-to-origin](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0630-course-schedule-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0630-course-schedule-iii) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
