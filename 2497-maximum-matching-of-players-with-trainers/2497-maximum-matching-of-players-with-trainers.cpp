@@ -4,14 +4,12 @@ public:
         sort(p.begin(),p.end());
         sort(t.begin(),t.end());
         int i=0,j=0;
-        int count = 0;
         while(i < p.size() && j < t.size()){
             if(p[i] <= t[j]){
-                count++;
                 i++;
             }
             j++;
         }
-        return count;
+        return i;
     }
 };
