@@ -59,6 +59,7 @@
 | [2058-concatenation-of-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2058-concatenation-of-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2551-apply-operations-to-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2664-maximize-greatness-of-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2664-maximize-greatness-of-an-array) |
 ## Hash Table
 |  |
@@ -175,6 +176,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2043-cyclically-rotating-a-grid](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2043-cyclically-rotating-a-grid) |
 | [2058-concatenation-of-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2058-concatenation-of-array) |
+| [2551-apply-operations-to-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2551-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -194,6 +196,7 @@
 | [0455-assign-cookies](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2551-apply-operations-to-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2664-maximize-greatness-of-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2664-maximize-greatness-of-an-array) |
 ## Linked List
 |  |
