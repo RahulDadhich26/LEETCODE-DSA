@@ -27,6 +27,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -178,6 +179,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0287-find-the-duplicate-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
