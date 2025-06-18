@@ -1,29 +1,23 @@
 class Solution {
 public:
     int thirdMax(vector<int>& nums) {
-        priority_queue<int, vector<int> , greater<int>>pq;
-        unordered_set<int>distinctNums;
-
-        for(auto num : nums){
-            if(distinctNums.count(num)) continue;
-            distinctNums.insert(num);
-
-            if(pq.size() < 3){
-                pq.push(num);
+        long fmax=LONG_MIN;
+        long smax=LONG_MIN;
+        long tmax=LONG_MIN;
+        for(int i : nums){
+            if(i == fmax || i == smax || i == tmax) continue;
+            if(i > fmax){
+                tmax = smax;
+                smax = fmax;
+                fmax = i;
             }
-            else if(num > pq.top()){
-                pq.pop();
-                pq.push(num);
+            else if(i > smax){
+                tmax = smax;
+                smax = i;
             }
+            else if(i > tmax) tmax = i;
         }
-        if(pq.size() == 3){
-           return pq.top();
-        }
-        else{
-            while(pq.size() > 1){
-                 pq.pop();
-            }
-            return pq.top();
-        }
+         if(tmax == LONG_MIN) return fmax;
+         return tmax;
     }
 };
