@@ -113,6 +113,7 @@
 | [0020-valid-parentheses](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0067-add-binary](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0079-word-search) |
@@ -145,6 +146,7 @@
 | [0002-add-two-numbers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0202-happy-number) |
@@ -190,6 +192,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0268-missing-number) |
@@ -198,6 +201,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0067-add-binary) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2043-cyclically-rotating-a-grid](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2043-cyclically-rotating-a-grid) |
 | [2058-concatenation-of-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2058-concatenation-of-array) |
