@@ -124,6 +124,7 @@
 | [0392-is-subsequence](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0394-decode-string) |
 | [0459-repeated-substring-pattern](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0459-repeated-substring-pattern) |
+| [0541-reverse-string-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0541-reverse-string-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0678-valid-parenthesis-string) |
 | [1524-string-matching-in-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1524-string-matching-in-an-array) |
@@ -226,6 +227,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0455-assign-cookies) |
+| [0541-reverse-string-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0541-reverse-string-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2551-apply-operations-to-an-array) |
