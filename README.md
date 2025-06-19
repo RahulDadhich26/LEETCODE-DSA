@@ -122,6 +122,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0394-decode-string) |
+| [0459-repeated-substring-pattern](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0459-repeated-substring-pattern) |
 | [0583-delete-operation-for-two-strings](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0678-valid-parenthesis-string) |
 | [1524-string-matching-in-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1524-string-matching-in-an-array) |
@@ -158,6 +159,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0459-repeated-substring-pattern) |
 | [1524-string-matching-in-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1524-string-matching-in-an-array) |
 ## Dynamic Programming
 |  |
