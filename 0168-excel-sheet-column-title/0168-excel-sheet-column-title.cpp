@@ -3,12 +3,11 @@ public:
     string convertToTitle(int columnNumber) {
           string result = "";
     
-    while (columnNumber > 0) {
-        columnNumber--; // Convert to 0-based indexing
-        result = char('A' + columnNumber % 26) + result;
-        columnNumber /= 26;
+    while (columnNumber) {
+        char ch = (65 + (columnNumber - 1) % 26);
+        columnNumber = (columnNumber - 1)/26;
+        result = ch + result;
     }
-    
     return result;
     }
 };
