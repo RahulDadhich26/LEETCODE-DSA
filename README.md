@@ -135,6 +135,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0778-reorganize-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0778-reorganize-string) |
+| [1252-break-a-palindrome](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1252-break-a-palindrome) |
 | [1524-string-matching-in-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Prefix Sum
@@ -348,6 +349,7 @@
 | [0778-reorganize-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0778-reorganize-string) |
 | [0890-lemonade-change](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0890-lemonade-change) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0902-minimum-number-of-refueling-stops) |
+| [1252-break-a-palindrome](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1252-break-a-palindrome) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2664-maximize-greatness-of-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2664-maximize-greatness-of-an-array) |
 ## Divide and Conquer
