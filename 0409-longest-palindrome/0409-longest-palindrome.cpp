@@ -1,24 +1,14 @@
 class Solution {
 public:
     int longestPalindrome(string s) {
-         int map[128] = {0};
-    
-    for(char c : s) {
-        map[c]++;
-    }
-    
-    int oddCount = 0;
-    
-    for(int i = 0; i < 128; i++) {
-        if(map[i] % 2 == 1) {
-            oddCount++;
+        int map[128] = {0};
+        int odd = 0;
+        for(auto m : s){
+            map[m]++;
+            if(map[m] % 2 == 1) odd++;
+            else odd--;
         }
-    }
-    
-    if(oddCount > 0) {
-        return s.size() - oddCount + 1;
-    }
-    
-    return s.size();
+        if(odd >= 1) return s.size() - odd + 1;
+        return s.size() ;
     }
 };
