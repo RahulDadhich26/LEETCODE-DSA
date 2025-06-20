@@ -138,6 +138,7 @@
 | [1252-break-a-palindrome](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1252-break-a-palindrome) |
 | [1524-string-matching-in-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [3447-clear-digits](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/3447-clear-digits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -216,6 +217,7 @@
 | [2043-cyclically-rotating-a-grid](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2043-cyclically-rotating-a-grid) |
 | [2058-concatenation-of-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2058-concatenation-of-array) |
 | [2551-apply-operations-to-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2551-apply-operations-to-an-array) |
+| [3447-clear-digits](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/3447-clear-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -389,6 +391,7 @@
 | [0496-next-greater-element-i](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0678-valid-parenthesis-string) |
+| [3447-clear-digits](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/3447-clear-digits) |
 ## Binary Search Tree
 |  |
 | ------- |
