@@ -85,6 +85,7 @@
 | [0141-linked-list-cycle](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0347-top-k-frequent-elements) |
@@ -124,6 +125,7 @@
 | [0125-valid-palindrome](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0212-word-search-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
