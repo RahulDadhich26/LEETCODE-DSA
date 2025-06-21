@@ -89,6 +89,7 @@
 | [0268-missing-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0525-contiguous-array) |
@@ -127,6 +128,7 @@
 | [0212-word-search-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0212-word-search-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0409-longest-palindrome) |
@@ -446,6 +448,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0383-ransom-note) |
 | [0778-reorganize-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0778-reorganize-string) |
 | [1635-number-of-good-pairs](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1635-number-of-good-pairs) |
 ## Monotonic Stack
