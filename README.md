@@ -232,6 +232,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -262,6 +263,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0025-reverse-nodes-in-k-group) |
