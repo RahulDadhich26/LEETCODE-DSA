@@ -29,6 +29,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -165,6 +166,7 @@
 | [0009-palindrome-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0189-rotate-array) |
@@ -414,6 +416,7 @@
 | [0042-trapping-rain-water](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0394-decode-string) |
