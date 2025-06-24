@@ -347,6 +347,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0225-implement-stack-using-queues](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0307-range-sum-query-mutable) |
@@ -413,6 +414,7 @@
 | [0042-trapping-rain-water](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0496-next-greater-element-i) |
@@ -522,4 +524,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0023-merge-k-sorted-lists) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
