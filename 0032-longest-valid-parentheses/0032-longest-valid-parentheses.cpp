@@ -3,8 +3,8 @@ public:
     int longestValidParentheses(string s) {
         stack<int>st;
         st.push(-1);
-        int mxln = 0;
-        for(int i=0;i<s.length();i++){
+        int max_len = 0;
+        for(int i =0 ;i<s.length();i++){
             if(s[i] == '('){
                 st.push(i);
             }
@@ -14,10 +14,11 @@ public:
                     st.push(i);
                 }
                 else{
-                    mxln = max(mxln , i - st.top());
+                    int curr_len = i - st.top();
+                    max_len = max(max_len,curr_len);
                 }
             }
         }
-        return mxln;
+        return max_len;
     }
 };
