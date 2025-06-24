@@ -136,6 +136,7 @@
 | [0383-ransom-note](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0459-repeated-substring-pattern) |
@@ -370,6 +371,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0561-array-partition) |
@@ -420,6 +422,7 @@
 | [0225-implement-stack-using-queues](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0678-valid-parenthesis-string) |
@@ -483,6 +486,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0503-next-greater-element-ii) |
 ## Graph
