@@ -22,6 +22,7 @@
 | [0079-word-search](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -305,6 +306,7 @@
 | [0101-symmetric-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -347,6 +349,7 @@
 | [0101-symmetric-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -396,6 +399,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1014-k-closest-points-to-origin) |
@@ -439,6 +443,7 @@
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1427-all-elements-in-two-binary-search-trees) |
