@@ -1,16 +1,14 @@
 class Solution {
 public:
     int numTrees(int n) {
-        vector<int> v(n+1,0);
-        v[0]=1,v[1]=1;
-        for(int i=2;i<=n;i++)
-        {
-            int count=0;
-            for(int j=0;j<i;j++)
-            {
-                v[i]=v[i]+v[j]*v[i-j-1];
-            }
+        int i=n*2;
+        int j=1;
+        long ans = 1;
+        while(i!=n){
+        ans = ans*i/j;
+        i--;
+        j++;
         }
-        return v[n];
+        return ans/(n+1);
     }
 };
