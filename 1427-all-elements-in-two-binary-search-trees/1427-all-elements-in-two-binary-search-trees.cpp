@@ -11,43 +11,31 @@
  */
 class Solution {
 public:
-    void traverse(TreeNode *root,vector<int> &a)
-    {
-        if(root != NULL)
-        {
-            traverse(root->left,a);
-            a.push_back(root->val);
-            traverse(root->right,a);
-        }
-    }
     vector<int> getAllElements(TreeNode* root1, TreeNode* root2) {
-        vector<int> n,m,res;
-        traverse(root1,n);
-        traverse(root2,m);
-        int l=0,r=0;
-        while(l<n.size() && r<m.size())
-        {
-            if(n[l]<m[r])
-            {
-                res.push_back(n[l]);
-                l++;
+        vector<int>ans;
+        stack<TreeNode*>s1,s2;
+        while(root1 || root2 || !s1.empty() || !s2.empty()){
+            while(root1){
+                s1.push(root1);
+                root1 = root1->left;
             }
-            else
-            {
-                res.push_back(m[r]);
-                r++;
+            while(root2){
+                s2.push(root2);
+                root2 = root2->left;
+            }
+            if(s2.empty() || (!s1.empty() && s1.top()->val <= s2.top()->val)){
+                root1 = s1.top();
+                s1.pop();
+                ans.push_back(root1->val);
+                root1 = root1->right;
+            }
+            else{
+                root2 = s2.top();
+                s2.pop();
+                ans.push_back(root2->val);
+                root2 = root2->right;
             }
         }
-        while(l<n.size())
-        {
-            res.push_back(n[l]);
-            l++;
-        }
-        while(r<m.size())
-        {
-            res.push_back(m[r]);
-            r++;
-        }
-        return res;
+        return ans;
     }
 };
