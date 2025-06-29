@@ -390,6 +390,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0307-range-sum-query-mutable) |
+| [0937-online-stock-span](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0937-online-stock-span) |
 ## Binary Search
 |  |
 | ------- |
@@ -466,6 +467,7 @@
 | [0496-next-greater-element-i](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0678-valid-parenthesis-string) |
+| [0937-online-stock-span](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0937-online-stock-span) |
 | [3447-clear-digits](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/3447-clear-digits) |
 ## Binary Search Tree
 |  |
@@ -533,6 +535,7 @@
 | [0402-remove-k-digits](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0937-online-stock-span) |
 ## Graph
 |  |
 | ------- |
@@ -582,4 +585,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0225-implement-stack-using-queues) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
