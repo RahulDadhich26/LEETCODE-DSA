@@ -154,6 +154,7 @@
 | [0459-repeated-substring-pattern](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0459-repeated-substring-pattern) |
 | [0468-validate-ip-address](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0468-validate-ip-address) |
 | [0541-reverse-string-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0541-reverse-string-ii) |
+| [0556-next-greater-element-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0678-valid-parenthesis-string) |
@@ -188,6 +189,7 @@
 | [0202-happy-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0415-add-strings) |
+| [0556-next-greater-element-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0556-next-greater-element-iii) |
 | [1013-fibonacci-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1635-number-of-good-pairs](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1635-number-of-good-pairs) |
@@ -276,6 +278,7 @@
 | [0392-is-subsequence](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0541-reverse-string-ii) |
+| [0556-next-greater-element-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
