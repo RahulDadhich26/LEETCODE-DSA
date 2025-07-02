@@ -92,6 +92,7 @@
 | [0076-minimum-window-substring](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0205-isomorphic-strings) |
@@ -299,6 +300,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0206-reverse-linked-list) |
@@ -389,6 +391,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -595,4 +598,8 @@
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0937-online-stock-span) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
