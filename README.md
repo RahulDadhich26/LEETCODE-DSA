@@ -87,6 +87,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2664-maximize-greatness-of-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2664-maximize-greatness-of-an-array) |
+| [2737-row-with-maximum-ones](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2737-row-with-maximum-ones) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | [1663-detect-cycles-in-2d-grid](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2043-cyclically-rotating-a-grid](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2043-cyclically-rotating-a-grid) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2737-row-with-maximum-ones](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2737-row-with-maximum-ones) |
 ## String
 |  |
 | ------- |
