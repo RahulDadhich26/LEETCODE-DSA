@@ -74,6 +74,7 @@
 | [0907-koko-eating-bananas](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1043-grid-illumination](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1043-grid-illumination) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1380-number-of-closed-islands](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1380-number-of-closed-islands) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1524-string-matching-in-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1524-string-matching-in-an-array) |
@@ -447,6 +448,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2047-find-a-peak-element-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2047-find-a-peak-element-ii) |
