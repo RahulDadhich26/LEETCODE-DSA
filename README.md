@@ -187,6 +187,7 @@
 | [1252-break-a-palindrome](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1252-break-a-palindrome) |
 | [1524-string-matching-in-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2032-largest-odd-number-in-string) |
 | [3447-clear-digits](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/3447-clear-digits) |
 ## Prefix Sum
@@ -535,6 +536,7 @@
 | [0739-daily-temperatures](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [3447-clear-digits](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/3447-clear-digits) |
 ## Binary Search Tree
 |  |
