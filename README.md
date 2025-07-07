@@ -345,6 +345,7 @@
 | [0206-reverse-linked-list](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0838-design-linked-list](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0838-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -451,6 +452,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0307-range-sum-query-mutable) |
+| [0838-design-linked-list](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0838-design-linked-list) |
 | [0937-online-stock-span](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0937-online-stock-span) |
 ## Binary Search
 |  |
