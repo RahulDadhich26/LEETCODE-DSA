@@ -11,31 +11,21 @@
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
-          if(!head || !head->next) return true;
+        stack<int>st;
+        ListNode* temp = head;
 
-    ListNode *slow = head, *fast = head;
-    ListNode *prev = nullptr, *next = nullptr;
+        while(temp!=NULL){
+            st.push(temp->val);
+            temp = temp->next;
+        }
 
-    // Reverse first half while finding mid
-    while(fast && fast->next) {
-        fast = fast->next->next;
+        temp = head;
 
-        next = slow->next;
-        slow->next = prev;
-        prev = slow;
-        slow = next;
-    }
-
-    // If odd number of nodes, skip middle node
-    if(fast) slow = slow->next;
-
-    // Compare both halves
-    while(prev && slow) {
-        if(prev->val != slow->val) return false;
-        prev = prev->next;
-        slow = slow->next;
-    }
-
-    return true;
+        while(temp!=NULL){
+            if(temp->val != st.top()) return false;
+            st.pop();
+            temp = temp->next;
+        }
+        return true;
     }
 };
