@@ -9,33 +9,26 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        if(!head || !head->next) return NULL;
-        ListNode *slow = head;
-        ListNode *fast = head;
-
-        while(fast && fast->next){
-            slow = slow->next;
-            fast = fast->next->next;
-
-            if(slow == fast){
-                break;
-            }
+        
+        ListNode* temp = head;
+    
+    // hashmap to store all visited nodes
+    unordered_map<ListNode*, int> mp;
+    
+    // Traverse the list using temp
+    while(temp!=NULL){
+        // check if temp has been encountered again
+        if(mp.count(temp)!=0){
+            // A loop is detected hence return temp
+            return temp;
         }
-        if(slow!=fast) return NULL;
-        slow = head;
-        while(slow!=fast){
-            slow = slow->next;
-            fast = fast->next;
-        }
-        return slow;
+        // store temp as visited
+        mp[temp] = 1;
+        // iterate through the list
+        temp = temp->next;
+    }
+
+    // If no loop is detected, return nullptr
+    return nullptr; 
     }
 };
-
-
-
-
-
-
-
-
-
