@@ -11,35 +11,29 @@
 class Solution {
 public:
     ListNode* reverseBetween(ListNode* head, int left, int right) {
-        if (!head || left == right) {
-        return head;
-    }
-
-    // Create a dummy node to handle cases where left = 1
+        if (!head || left == right) return head;
+    
+    // Create dummy for edge cases
     ListNode* dummy = new ListNode(0);
     dummy->next = head;
-    ListNode* prev = dummy;
-
-    // Move prev to the node just before the left position
-    for (int i = 1; i < left; ++i) {
-        prev = prev->next;
+    
+    // Find the node just before the reversal range
+    ListNode* prevNode = dummy;
+    for (int i = 1; i < left; i++) {
+        prevNode = prevNode->next;
     }
-
-    // Initialize pointers for reversing the sublist
-    ListNode* curr = prev->next;
-    ListNode* nextNode = nullptr;
-
-    // Reverse the sublist
-    for (int i = left; i < right; ++i) {
-        nextNode = curr->next;
-        curr->next = nextNode->next;
-        nextNode->next = prev->next;
-        prev->next = nextNode;
+    
+    // Start reversing from position left
+    ListNode* current = prevNode->next;
+    
+    // Reverse (right - left) times
+    for (int i = 0; i < right - left; i++) {
+        ListNode* nodeToMove = current->next;    // Node to move
+        current->next = nodeToMove->next;        // Skip the node to move
+        nodeToMove->next = prevNode->next;       // Point to beginning of reversed part
+        prevNode->next = nodeToMove;             // Make it new first node
     }
-
-    // Return the modified list
-    ListNode* newHead = dummy->next;
-    delete dummy; // Free the dummy node to avoid memory leaks
-    return newHead;
+    
+    return dummy->next;
     }
 };
