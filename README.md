@@ -212,6 +212,7 @@
 | [0007-reverse-integer](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0070-climbing-stairs) |
@@ -360,6 +361,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0234-palindrome-linked-list) |
