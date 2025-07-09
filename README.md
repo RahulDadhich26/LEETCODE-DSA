@@ -230,6 +230,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1635-number-of-good-pairs](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1635-number-of-good-pairs) |
 | [2032-largest-odd-number-in-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2050-count-good-numbers) |
 | [2383-add-two-integers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2556-convert-the-temperature) |
@@ -367,6 +368,7 @@
 | [0234-palindrome-linked-list](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2050-count-good-numbers) |
 ## Tree
 |  |
 | ------- |
