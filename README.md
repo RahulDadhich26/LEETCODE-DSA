@@ -78,6 +78,7 @@
 | [0890-lemonade-change](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0890-lemonade-change) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0907-koko-eating-bananas](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0907-koko-eating-bananas) |
+| [0917-boats-to-save-people](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1043-grid-illumination](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1043-grid-illumination) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -337,6 +338,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0908-middle-of-the-linked-list) |
+| [0917-boats-to-save-people](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0917-boats-to-save-people) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2551-apply-operations-to-an-array) |
@@ -512,6 +514,7 @@
 | [0778-reorganize-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0778-reorganize-string) |
 | [0890-lemonade-change](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0890-lemonade-change) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0902-minimum-number-of-refueling-stops) |
+| [0917-boats-to-save-people](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0917-boats-to-save-people) |
 | [1252-break-a-palindrome](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1252-break-a-palindrome) |
 | [2032-largest-odd-number-in-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -606,6 +609,7 @@
 | [0561-array-partition](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0561-array-partition) |
 | [0630-course-schedule-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0630-course-schedule-iii) |
 | [0778-reorganize-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0778-reorganize-string) |
+| [0917-boats-to-save-people](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1427-all-elements-in-two-binary-search-trees) |
