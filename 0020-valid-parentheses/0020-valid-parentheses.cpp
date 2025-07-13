@@ -2,22 +2,20 @@ class Solution {
 public:
     bool isValid(string s) {
         stack<char>st;
-        unordered_map<char,char>mapping = {
-              {']','['},
-              {')','('},
-              {'}','{'}
-        };
-        for(char ch : s){
-            if(mapping.count(ch)){
-                if(st.empty() || st.top()!= mapping[ch]){
-                    return false;
-                }
-                st.pop();
+        for(int i = 0 ;i<s.length();i++){
+            if(s[i] == '(' || s[i] == '{' || s[i] == '['){
+                 st.push(s[i]);
             }
-            else if(ch == '{' || ch == '[' || ch == '('){
-                st.push(ch);
+            else if(s[i] == ')' || s[i] == ']' || s[i] == '}'){
+                if(st.empty()) return false;
+                
+                char top = st.top();
+                st.pop();
+
+                if(s[i] == ')' && top != '(' || s[i] == ']' && top != '[' || s[i] == '}' && top != '{') return false;
             }
         }
+        
         return st.empty();
     }
 };
