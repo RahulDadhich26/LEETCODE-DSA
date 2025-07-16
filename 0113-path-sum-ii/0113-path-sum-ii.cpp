@@ -13,7 +13,7 @@ class Solution {
 public:
     vector<vector<int>>result;
 
-    void dfs(TreeNode* root, int targetsum , vector<int>Path){
+    void dfs(TreeNode* root, int targetsum , vector<int>&Path){
         if(!root) return;
 
         Path.push_back(root->val);
