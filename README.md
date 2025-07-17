@@ -413,6 +413,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
@@ -497,6 +498,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Design
@@ -629,6 +631,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Sorting
 |  |
