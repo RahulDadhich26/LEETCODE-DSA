@@ -11,14 +11,27 @@
  */
 class Solution {
 public:
-    bool helper (TreeNode* left, TreeNode* right){
-        if(!left && !right) return true;
-        if(!left || !right) return false;
-
-        return (left->val == right->val) && helper(left->left , right->right) && helper(left->right, right->left);
-    }
     bool isSymmetric(TreeNode* root) {
-            if(!root)return true;
-            return helper(root->left, root->right);
+        if(!root) return true;
+        queue<TreeNode*>q;
+        q.push(root->left);
+        q.push(root->right);
+
+        while(!q.empty()){
+            TreeNode *left = q.front(); q.pop();
+            TreeNode *right = q.front(); q.pop();
+
+            if(!left && !right) continue;
+
+            if(!left || !right || left->val != right->val){
+                return false;
+            }
+
+            q.push(left->left);
+            q.push(right->right);
+            q.push(left->right);
+            q.push(right->left);
+        }
+        return true;
     }
 };
