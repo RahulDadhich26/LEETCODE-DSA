@@ -410,6 +410,7 @@
 | [0257-binary-tree-paths](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0783-search-in-a-binary-search-tree) |
@@ -495,6 +496,7 @@
 | [0257-binary-tree-paths](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0783-search-in-a-binary-search-tree) |
@@ -629,6 +631,7 @@
 | [0099-recover-binary-search-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0784-insert-into-a-binary-search-tree) |
