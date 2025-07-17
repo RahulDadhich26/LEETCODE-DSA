@@ -21,9 +21,9 @@ public:
             TreeNode *left = q.front(); q.pop();
             TreeNode *right = q.front(); q.pop();
 
-            if(!left && !right) continue;
+            if(left == nullptr && right == nullptr) continue;
 
-            if(!left || !right || left->val != right->val){
+            if(left == nullptr || right == nullptr || left->val != right->val){
                 return false;
             }
 
