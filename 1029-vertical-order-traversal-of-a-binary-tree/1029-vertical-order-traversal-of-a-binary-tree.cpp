@@ -11,32 +11,37 @@
  */
 class Solution {
 public:
-    void dfs(TreeNode* root, map<int, vector<int>>& mp, int x, int y, map<pair<int, int>, multiset<int>>& mpp) {
-        if (!root) return;
-
-        mpp[{x, y}].insert(root->val);
-
-        dfs(root->left, mp, x - 1, y + 1, mpp);
-        dfs(root->right, mp, x + 1, y + 1, mpp);
-    }
-
     vector<vector<int>> verticalTraversal(TreeNode* root) {
-        map<int, vector<int>> mp;
-        map<pair<int, int>, multiset<int>> mpp;
+     map<int, map<int, multiset<int>>> nodes;
 
-        dfs(root, mp, 0, 0, mpp);
+        // queue for BFS: stores node with (x, y) coordinates
+        queue<pair<TreeNode*, pair<int, int>>> q;
+        q.push({root, {0, 0}});
 
-        for (auto& it : mpp) {
-            int x = it.first.first;
-            for (int val : it.second) {
-                mp[x].push_back(val);
+        while (!q.empty()) {
+            auto [node, coords] = q.front();
+            q.pop();
+
+            int x = coords.first, y = coords.second;
+            nodes[x][y].insert(node->val);
+
+            if (node->left) {
+                q.push({node->left, {x - 1, y + 1}});
+            }
+            if (node->right) {
+                q.push({node->right, {x + 1, y + 1}});
             }
         }
 
-        vector<vector<int>> ans;
-        for (auto& it : mp) {
-            ans.push_back(it.second);
+        vector<vector<int>> result;
+        for (auto& x_pair : nodes) {
+            vector<int> col;
+            for (auto& y_pair : x_pair.second) {
+                col.insert(col.end(), y_pair.second.begin(), y_pair.second.end());
+            }
+            result.push_back(col);
         }
-        return ans;
+
+        return result;
     }
 };
