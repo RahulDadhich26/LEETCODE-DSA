@@ -9,20 +9,30 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-
-    class Solution {
-
-bool isPossible(TreeNode* root, long long l, long long r){
-    if(root == nullptr)  return true;
-    if(root->val < r and root->val > l)
-        return isPossible(root->left, l, root->val) and 
-                                isPossible(root->right, root->val, r);
-    else return false;
-}
-
+class Solution {
 public:
     bool isValidBST(TreeNode* root) {
-        long long int min = -1000000000000, max = 1000000000000;
-        return isPossible(root, min, max);
+        stack<TreeNode*>st;
+        TreeNode* curr = root;
+        long long prev = LLONG_MIN;
+
+        while(curr != nullptr || !st.empty()){
+            // traverse to the leftmost node
+            // me pehele left me juanga chota element dekhne
+            while(curr != nullptr){
+                st.push(curr);
+                curr = curr->left;
+            } 
+            // current node is now the leftmost 
+            curr = st.top();
+            st.pop();
+            
+            if(curr->val <= prev) return false;
+
+            prev = curr->val;
+            curr = curr->right;
+
+        }
+        return true;
     }
 };
