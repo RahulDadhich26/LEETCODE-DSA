@@ -1,26 +1,48 @@
 class Solution {
-    private:
-    void dfs(vector<vector<char>>&grid, int i,int j){
-        if(i < 0 || i >= grid.size() || j < 0 || j >= grid[0].size() || grid[i][j]!= '1'){
-            return;
-        }
-        grid[i][j] = '0';
-        dfs(grid,i+1,j);
-        dfs(grid,i-1,j);
-        dfs(grid,i,j+1);
-        dfs(grid,i,j-1);
-    }
-public:
-    int numIslands(vector<vector<char>>& grid) {
-        if(grid.empty() || grid[0].empty()) return 0;
-        int numofIslands = 0;
-        for (int i = 0; i < grid.size(); i++) {
-            for (int j = 0; j < grid[0].size(); j++) {
-                if(grid[i][j] == '1'){ numofIslands++;
-                dfs(grid,i,j);
+private:
+    void bfs(int i, int j ,vector<vector<int>>& vis ,vector<vector<char>>& grid ){
+        vis[i][j] = 1;
+        queue<pair<int,int>>q;
+        q.push({i,j});
+        int n = grid.size();
+        int m = grid[0].size();
+
+        // 4-directional movement
+        int dx[4] = {-1, 0, 1, 0};
+        int dy[4] = {0, 1, 0, -1};
+
+        while(!q.empty()){
+            int row = q.front().first;
+            int col = q.front().second;
+            q.pop();
+
+            for(int k = 0; k < 4; k++){
+                int nrow = row + dx[k];
+                int ncol = col + dy[k];
+
+                if(nrow >= 0 && nrow < n && ncol >= 0 && ncol < m && 
+                   grid[nrow][ncol] == '1' && !vis[nrow][ncol]){
+                    vis[nrow][ncol] = 1;
+                    q.push({nrow,ncol});
                 }
             }
         }
-        return numofIslands;
+    }
+
+public:
+    int numIslands(vector<vector<char>>& grid) {
+        int n = grid.size();
+        int m = grid[0].size();
+        vector<vector<int>>vis(n,vector<int>(m,0));
+        int cnt = 0;
+        for(int i = 0 ; i < n; i++){
+            for(int j = 0 ; j < m; j++){
+                if(!vis[i][j] && grid[i][j] == '1'){
+                    cnt++;
+                    bfs(i,j,vis,grid);
+                }
+            }
+        }
+        return cnt;
     }
 };
