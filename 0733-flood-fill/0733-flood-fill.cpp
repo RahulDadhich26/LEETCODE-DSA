@@ -1,21 +1,29 @@
 class Solution {
-public:
-    
-    void dfs(vector<vector<int>>&image,int i,  int j, int val, int newColor){
-         if(i<0 || i>=image.size() || j<0 || j>= image[0].size() || image[i][j] == newColor || image[i][j] != val)
-        {
+private:
+    void dfs(int row, int col, vector<vector<int>>& image, int oldColor, int newColor) {
+        int n = image.size();
+        int m = image[0].size();
+
+        // Boundary or different color? Stop.
+        if (row < 0 || col < 0 || row >= n || col >= m || image[row][col] != oldColor)
             return;
+
+        image[row][col] = newColor;
+
+        dfs(row + 1, col, image, oldColor, newColor);  // down
+        dfs(row - 1, col, image, oldColor, newColor);  // up
+        dfs(row, col + 1, image, oldColor, newColor);  // right
+        dfs(row, col - 1, image, oldColor, newColor);  // left
+    }
+
+public:
+    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int newColor) {
+        int oldColor = image[sr][sc];
+
+        if (oldColor != newColor) {
+            dfs(sr, sc, image, oldColor, newColor);
         }
 
-        image[i][j] = newColor;
-        dfs(image,i-1,j,val,newColor);
-        dfs(image,i+1,j,val,newColor);
-        dfs(image,i,j-1,val,newColor);
-        dfs(image,i,j+1,val,newColor);
-    }
-    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
-        int val = image[sr][sc];
-        dfs(image,sr,sc,val,color);
         return image;
     }
 };
