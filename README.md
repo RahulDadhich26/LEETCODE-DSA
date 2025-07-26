@@ -268,6 +268,7 @@
 | [2556-convert-the-temperature](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2556-convert-the-temperature) |
 | [2630-alternating-digit-sum](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2630-alternating-digit-sum) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2955-account-balance-after-rounded-purchase) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## String Matching
 |  |
 | ------- |
