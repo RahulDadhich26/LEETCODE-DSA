@@ -487,6 +487,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0820-find-eventual-safe-states) |
@@ -525,6 +526,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0820-find-eventual-safe-states) |
@@ -756,6 +758,7 @@
 | [0347-top-k-frequent-elements](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0630-course-schedule-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0630-course-schedule-iii) |
+| [0744-network-delay-time](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0778-reorganize-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0902-minimum-number-of-refueling-stops) |
@@ -802,6 +805,7 @@
 | [0207-course-schedule](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0820-find-eventual-safe-states) |
@@ -817,6 +821,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Number Theory
