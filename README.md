@@ -97,6 +97,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1635-number-of-good-pairs](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1635-number-of-good-pairs) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1753-path-with-minimum-effort) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2043-cyclically-rotating-a-grid](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2043-cyclically-rotating-a-grid) |
@@ -166,6 +167,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1380-number-of-closed-islands) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1753-path-with-minimum-effort) |
 | [2043-cyclically-rotating-a-grid](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2043-cyclically-rotating-a-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2047-find-a-peak-element-ii) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -492,6 +494,7 @@
 | [1380-number-of-closed-islands](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1380-number-of-closed-islands) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2121-find-if-path-exists-in-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -529,6 +532,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1380-number-of-closed-islands) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2121-find-if-path-exists-in-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -606,6 +610,7 @@
 | [0907-koko-eating-bananas](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1753-path-with-minimum-effort](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1753-path-with-minimum-effort) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2047-find-a-peak-element-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2047-find-a-peak-element-ii) |
 ## Greedy
@@ -751,6 +756,7 @@
 | [0778-reorganize-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0778-reorganize-string) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1014-k-closest-points-to-origin) |
+| [1753-path-with-minimum-effort](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1753-path-with-minimum-effort) |
 ## Quickselect
 |  |
 | ------- |
@@ -821,6 +827,7 @@
 | [1073-number-of-enclaves](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1380-number-of-closed-islands) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Indexed Tree
 |  |
