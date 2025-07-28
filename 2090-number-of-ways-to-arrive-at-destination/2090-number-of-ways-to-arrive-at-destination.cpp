@@ -1,41 +1,46 @@
 class Solution {
-public:
+  public:
     int countPaths(int n, vector<vector<int>>& roads) {
-        vector<vector<pair<int, int>>> graph(n);
-        for (const auto& road : roads) {
-            int u = road[0], v = road[1], time = road[2];
-            graph[u].emplace_back(v, time);
-            graph[v].emplace_back(u, time);
+        vector<pair<int,int>> adj[n];
+        for(auto it : roads){
+            adj[it[0]].push_back({it[1], it[2]});
+            adj[it[1]].push_back({it[0], it[2]});
         }
 
-        vector<long long> dist(n, LLONG_MAX);
+        priority_queue< pair<long long,int>,
+                        vector<pair<long long,int>>,
+                        greater<pair<long long,int>> > pq;
+
+        vector<long long> dist(n, 1e18); // Use long long
         vector<int> ways(n, 0);
+        int mod = 1e9 + 7;
 
         dist[0] = 0;
         ways[0] = 1;
+        pq.push({0, 0});
 
-        priority_queue<pair<long long, int>, vector<pair<long long, int>>, greater<>> pq;
-        pq.emplace(0, 0);
-
-        const int MOD = 1e9 + 7;
-
-        while (!pq.empty()) {
-            auto [d, node] = pq.top();
+        while(!pq.empty()) {
+            long long dis = pq.top().first;
+            int node = pq.top().second;
             pq.pop();
 
-            if (d > dist[node]) continue;
+            if (dis > dist[node]) continue;
 
-            for (const auto& [neighbor, time] : graph[node]) {
-                if (dist[node] + time < dist[neighbor]) {
-                    dist[neighbor] = dist[node] + time;
-                    ways[neighbor] = ways[node];
-                    pq.emplace(dist[neighbor], neighbor);
-                } else if (dist[node] + time == dist[neighbor]) {
-                    ways[neighbor] = (ways[neighbor] + ways[node]) % MOD;
+            for(auto it : adj[node]) {
+                int adjNode = it.first;
+                int eW = it.second;
+
+                if(dis + eW < dist[adjNode]) {
+                    dist[adjNode] = dis + eW;
+                    pq.push({dist[adjNode], adjNode});
+                    ways[adjNode] = ways[node];
+                }
+                else if(dis + eW == dist[adjNode]) {
+                    ways[adjNode] = (ways[adjNode] + ways[node]) % mod;
                 }
             }
         }
 
-        return ways[n - 1];
+        return ways[n-1];
     }
 };
