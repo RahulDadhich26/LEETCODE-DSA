@@ -65,6 +65,7 @@
 | [0347-top-k-frequent-elements](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0377-combination-sum-iv](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0377-combination-sum-iv) |
+| [0403-frog-jump](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0403-frog-jump) |
 | [0414-third-maximum-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0463-island-perimeter) |
@@ -304,6 +305,7 @@
 | [0322-coin-change](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0392-is-subsequence) |
+| [0403-frog-jump](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0403-frog-jump) |
 | [0518-coin-change-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0583-delete-operation-for-two-strings) |
