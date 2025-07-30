@@ -79,6 +79,7 @@
 | [0724-find-pivot-index](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0890-lemonade-change) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0902-minimum-number-of-refueling-stops) |
@@ -305,6 +306,7 @@
 | [0542-01-matrix](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0678-valid-parenthesis-string) |
+| [0747-min-cost-climbing-stairs](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1013-fibonacci-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1013-fibonacci-number) |
