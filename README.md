@@ -21,6 +21,7 @@
 | [0040-combination-sum-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0056-merge-intervals) |
@@ -120,6 +121,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0126-word-ladder-ii) |
@@ -189,6 +191,7 @@
 | [0022-generate-parentheses](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0071-simplify-path) |
@@ -738,6 +741,7 @@
 | ------- |
 | [0018-4sum](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
