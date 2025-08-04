@@ -1,12 +1,12 @@
 class Solution {
 public:
-    int missingNumber(vector<int>& nums) {
-        int missing = nums.size(); // Initialize with n
-
-        for (int i = 0; i < nums.size(); i++) {
-            missing ^= i ^ nums[i];
+    int missingNumber(vector<int>& arr) {
+        int totalsum = arr.size() * (arr.size() + 1) / 2;
+        int localsum = 0;
+        for(int i = 0 ; i< arr.size() ;i++){
+            localsum += arr[i];
         }
-
-        return missing;
+        int ans = totalsum - localsum;
+        return ans;
     }
 };
