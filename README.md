@@ -142,6 +142,7 @@
 | [0383-ransom-note](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0525-contiguous-array) |
@@ -220,6 +221,7 @@
 | [0402-remove-k-digits](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0459-repeated-substring-pattern) |
 | [0468-validate-ip-address](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0468-validate-ip-address) |
@@ -671,6 +673,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0643-maximum-average-subarray-i) |
 ## Backtracking
 |  |
