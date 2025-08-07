@@ -93,6 +93,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1036-rotting-oranges) |
 | [1043-grid-illumination](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1043-grid-illumination) |
+| [1046-max-consecutive-ones-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1073-number-of-enclaves) |
@@ -253,6 +254,7 @@
 | [0525-contiguous-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0724-find-pivot-index) |
+| [1046-max-consecutive-ones-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -640,6 +642,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1753-path-with-minimum-effort](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1753-path-with-minimum-effort) |
@@ -684,6 +687,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0940-fruit-into-baskets) |
+| [1046-max-consecutive-ones-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 ## Backtracking
 |  |
