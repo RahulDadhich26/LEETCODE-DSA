@@ -154,6 +154,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0778-reorganize-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0778-reorganize-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0900-reordered-power-of-2](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1043-grid-illumination](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1043-grid-illumination) |
@@ -281,6 +282,7 @@
 | [0279-perfect-squares](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0279-perfect-squares) |
 | [0415-add-strings](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0415-add-strings) |
 | [0556-next-greater-element-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0556-next-greater-element-iii) |
+| [0900-reordered-power-of-2](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1635-number-of-good-pairs](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1635-number-of-good-pairs) |
@@ -780,6 +782,7 @@
 | [0561-array-partition](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0561-array-partition) |
 | [0630-course-schedule-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0630-course-schedule-iii) |
 | [0778-reorganize-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0778-reorganize-string) |
+| [0900-reordered-power-of-2](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0900-reordered-power-of-2) |
 | [0917-boats-to-save-people](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -825,6 +828,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0778-reorganize-string) |
+| [0900-reordered-power-of-2](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0900-reordered-power-of-2) |
 | [1635-number-of-good-pairs](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1635-number-of-good-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Monotonic Stack
@@ -932,4 +936,8 @@
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1908-recyclable-and-low-fat-products) |
+## Enumeration
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
