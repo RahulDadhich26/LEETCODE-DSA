@@ -108,6 +108,7 @@
 | [1635-number-of-good-pairs](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1635-number-of-good-pairs) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1753-path-with-minimum-effort) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2043-cyclically-rotating-a-grid](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2043-cyclically-rotating-a-grid) |
