@@ -1,29 +1,20 @@
 class Solution {
 public:
-    const int MOD = 1e9 + 7;
+    typedef long long ll;
+    const int MOD = 1e9+7;
+    int findPower(ll a, ll b){
+        if(b == 0) return 1;
 
-    int countGoodNumbers(long long chakraLength) {
-        long long even = (chakraLength + 1) / 2;
-        long long odd = chakraLength / 2;
+        ll half = findPower(a,b/2);
+        ll result = (half * half) % MOD;
 
-        long long evenWays = chakraPower(5, even);
-        long long oddWays = chakraPower(4, odd);
-
-        return (evenWays * oddWays) % MOD;
-    }
-
-    long long chakraPower(long long base, long long power) {
-        long long result = 1;
-        base %= MOD;
-
-        while (power > 0) {
-            if (power % 2 == 1)
-                result = (result * base) % MOD;
-
-            base = (base * base) % MOD;
-            power /= 2;
+        if(b % 2 == 1){
+            result = (result * a)%MOD;
         }
 
         return result;
+    }
+    int countGoodNumbers(ll n) {
+        return (ll)findPower(5,(n+1)/2) * findPower(4,n/2)%MOD;
     }
 };
