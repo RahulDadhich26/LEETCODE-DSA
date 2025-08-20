@@ -1,28 +1,29 @@
+#include <iostream>
+#include <unordered_map>
+using namespace std;
+
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
-         if (s.length() != t.length()) return false;
+        if (s.size() != t.size()) return false;
 
-    unordered_map<char, char> s_to_t;
-    unordered_map<char, char> t_to_s;
+        unordered_map<char, char> mapS2T;
+        unordered_map<char, char> mapT2S;
 
-    for (int i = 0; i < s.length(); ++i) {
-        char cs = s[i];
-        char ct = t[i];
+        for (int i = 0; i < s.size(); i++) {
+            char c1 = s[i], c2 = t[i];
 
-        if (s_to_t.count(cs)) {
-            if (s_to_t[cs] != ct) return false;
-        } else {
-            s_to_t[cs] = ct;
+            // Check s → t mapping
+            if (mapS2T.count(c1) && mapS2T[c1] != c2) 
+                return false;
+
+            // Check t → s mapping
+            if (mapT2S.count(c2) && mapT2S[c2] != c1) 
+                return false;
+
+            mapS2T[c1] = c2;
+            mapT2S[c2] = c1;
         }
-
-        if (t_to_s.count(ct)) {
-            if (t_to_s[ct] != cs) return false;
-        } else {
-            t_to_s[ct] = cs;
-        }
-    }
-
-    return true;
+        return true;
     }
 };
