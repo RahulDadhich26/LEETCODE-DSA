@@ -1,22 +1,22 @@
+
 class Solution {
 public:
-    double myPow(double x, int n) {
-        if(n == 0)
-            return 1;
-        if(n == 1)
-            return x; 
-        if(n == -1)
-            return 1/x;
-        double halfPower = myPow(x,n/2);
-        double result = halfPower * halfPower;
+    double helper(double x, long n) {
+        if (n == 0) return 1.0;
 
-        if(n%2 != 0)
-        {
-            if(n > 0)
-                result = result * x;
-            else
-                result = result / x;
+        if (n % 2 == 0) {
+            return helper(x * x, n / 2);
+        } else {
+            return x * helper(x * x, n / 2);
         }
-        return result;
+    }
+
+    double myPow(double x, int n) {
+        long N = n; // promote to long to avoid overflow
+        if (N < 0) {
+            x = 1.0 / x;
+            N = -N;
+        }
+        return helper(x, N);
     }
 };
