@@ -6,7 +6,7 @@ public:
 
         while(x){
             cnt += (x & 1);
-            x >>= 1;
+            x = x >> 1;
         }
         return cnt;
     }
