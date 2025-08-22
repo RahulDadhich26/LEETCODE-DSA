@@ -290,6 +290,7 @@
 | [0900-reordered-power-of-2](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1014-k-closest-points-to-origin) |
+| [1610-xor-operation-in-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1635-number-of-good-pairs) |
 | [2032-largest-odd-number-in-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2050-count-good-numbers) |
@@ -353,6 +354,7 @@
 | [0260-single-number-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0287-find-the-duplicate-number) |
+| [1610-xor-operation-in-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1610-xor-operation-in-an-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Simulation
 |  |
