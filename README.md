@@ -93,6 +93,7 @@
 | [0907-koko-eating-bananas](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1036-rotting-oranges) |
 | [1043-grid-illumination](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1043-grid-illumination) |
@@ -161,6 +162,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0900-reordered-power-of-2](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1043-grid-illumination](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1043-grid-illumination) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -263,6 +265,7 @@
 | [0525-contiguous-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0724-find-pivot-index) |
+| [0966-binary-subarrays-with-sum](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -703,6 +706,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
