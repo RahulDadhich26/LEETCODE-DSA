@@ -95,6 +95,7 @@
 | [0940-fruit-into-baskets](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1014-k-closest-points-to-origin) |
+| [1034-subarrays-with-k-different-integers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1036-rotting-oranges) |
 | [1043-grid-illumination](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1043-grid-illumination) |
 | [1046-max-consecutive-ones-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1046-max-consecutive-ones-iii) |
@@ -165,6 +166,7 @@
 | [0940-fruit-into-baskets](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1034-subarrays-with-k-different-integers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1043-grid-illumination](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1043-grid-illumination) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -711,6 +713,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -857,6 +860,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0778-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0900-reordered-power-of-2) |
+| [1034-subarrays-with-k-different-integers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1635-number-of-good-pairs](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1635-number-of-good-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Monotonic Stack
