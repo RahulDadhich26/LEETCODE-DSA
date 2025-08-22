@@ -163,6 +163,7 @@
 | [0940-fruit-into-baskets](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1043-grid-illumination](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1043-grid-illumination) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1635-number-of-good-pairs](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1635-number-of-good-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -246,6 +247,7 @@
 | [0812-rotate-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1252-break-a-palindrome](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1252-break-a-palindrome) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1524-string-matching-in-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -702,6 +704,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 ## Backtracking
