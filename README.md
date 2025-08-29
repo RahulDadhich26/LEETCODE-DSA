@@ -121,6 +121,7 @@
 | [2043-cyclically-rotating-a-grid](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2043-cyclically-rotating-a-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2047-find-a-peak-element-ii) |
 | [2058-concatenation-of-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2058-concatenation-of-array) |
+| [2107-find-unique-binary-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2107-find-unique-binary-string) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2551-apply-operations-to-an-array) |
@@ -175,6 +176,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1635-number-of-good-pairs](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1635-number-of-good-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2107-find-unique-binary-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2107-find-unique-binary-string) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Matrix
@@ -263,6 +265,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2032-largest-odd-number-in-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2032-largest-odd-number-in-string) |
+| [2107-find-unique-binary-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2107-find-unique-binary-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [3447-clear-digits](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/3447-clear-digits) |
 ## Prefix Sum
@@ -747,6 +750,7 @@
 | [0212-word-search-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0257-binary-tree-paths) |
+| [2107-find-unique-binary-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2107-find-unique-binary-string) |
 ## Trie
 |  |
 | ------- |
