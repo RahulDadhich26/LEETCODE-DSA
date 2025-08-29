@@ -85,6 +85,7 @@
 | [0561-array-partition](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0561-array-partition) |
 | [0630-course-schedule-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0630-course-schedule-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0739-daily-temperatures) |
@@ -194,6 +195,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1073-number-of-enclaves) |
@@ -545,6 +547,7 @@
 | [0547-number-of-provinces](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0801-is-graph-bipartite) |
@@ -585,6 +588,7 @@
 | [0547-number-of-provinces](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0801-is-graph-bipartite) |
@@ -924,6 +928,7 @@
 | [0130-surrounded-regions](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1380-number-of-closed-islands) |
