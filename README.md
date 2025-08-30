@@ -119,6 +119,7 @@
 | [1635-number-of-good-pairs](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1635-number-of-good-pairs) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1753-path-with-minimum-effort) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -180,6 +181,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1635-number-of-good-pairs](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1635-number-of-good-pairs) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2107-find-unique-binary-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2107-find-unique-binary-string) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -436,6 +438,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0917-boats-to-save-people) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2551-apply-operations-to-an-array) |
@@ -842,6 +845,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2664-maximize-greatness-of-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2664-maximize-greatness-of-an-array) |
 ## Heap (Priority Queue)
