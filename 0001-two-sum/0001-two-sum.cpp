@@ -11,7 +11,7 @@ public:
             return {numMap[complement], i};
         }
         
-        // Add current number to the map
+        // agar upar map me nhi mila to isko map me key banakar store kr do <-> Add current number to the map
         numMap[nums[i]] = i;
     }
         return {};
