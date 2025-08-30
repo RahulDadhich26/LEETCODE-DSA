@@ -127,6 +127,7 @@
 | [2047-find-a-peak-element-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2047-find-a-peak-element-ii) |
 | [2058-concatenation-of-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2058-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2107-find-unique-binary-string) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -184,6 +185,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2107-find-unique-binary-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2107-find-unique-binary-string) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Matrix
@@ -892,6 +894,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1635-number-of-good-pairs](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1635-number-of-good-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Monotonic Stack
 |  |
 | ------- |
