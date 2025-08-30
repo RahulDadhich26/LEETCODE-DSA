@@ -87,6 +87,7 @@
 | [0561-array-partition](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0561-array-partition) |
 | [0630-course-schedule-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0630-course-schedule-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0733-flood-fill) |
