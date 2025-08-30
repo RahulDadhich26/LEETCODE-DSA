@@ -126,6 +126,7 @@
 | [2058-concatenation-of-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2058-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2107-find-unique-binary-string) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2664-maximize-greatness-of-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2664-maximize-greatness-of-an-array) |
@@ -273,6 +274,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2107-find-unique-binary-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2107-find-unique-binary-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [3447-clear-digits](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/3447-clear-digits) |
 ## Prefix Sum
 |  |
@@ -948,6 +950,7 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0307-range-sum-query-mutable) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2319-longest-substring-of-one-repeating-character) |
 ## Memoization
 |  |
 | ------- |
@@ -1003,4 +1006,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0239-sliding-window-maximum) |
+## Ordered Set
+|  |
+| ------- |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2319-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
