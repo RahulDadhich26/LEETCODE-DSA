@@ -276,6 +276,7 @@
 | [2107-find-unique-binary-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2107-find-unique-binary-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2319-longest-substring-of-one-repeating-character) |
+| [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [3447-clear-digits](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/3447-clear-digits) |
 ## Prefix Sum
 |  |
