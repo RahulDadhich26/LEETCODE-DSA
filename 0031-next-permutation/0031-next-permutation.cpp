@@ -1,6 +1,11 @@
 class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
+
+// 1. find longer prefix match
+// 2. find the breakpoint
+// 3. reverse the remaining array
+
         int n = nums.size();
         int idx1 = -1;
         for(int i = n-2; i>=0 ;i--){
