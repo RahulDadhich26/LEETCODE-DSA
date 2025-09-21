@@ -1,10 +1,9 @@
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix) {
-        //better approach
-        int n=matrix.size();
-        int m=matrix[0].size();
-        vector<int> row(n, 0);
+        int n=matrix.size();         // size of row
+        int m=matrix[0].size();       // size of column
+        vector<int> row(n, 0);      // row array
         vector<int> col(m, 0);
         for (int i=0;i<n;i++){
             for (int j=0;j<m;j++){
