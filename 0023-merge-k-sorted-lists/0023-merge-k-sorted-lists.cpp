@@ -10,34 +10,28 @@
  */
 class Solution {
 public:
-    ListNode* mergeKLists(vector<ListNode*>& lists) {
-         auto compare = [](ListNode* a, ListNode* b) {
+    struct compare {
+        bool operator()(ListNode *a, ListNode *b){
             return a->val > b->val;
-        };
-        
-        priority_queue<ListNode*, vector<ListNode*>, decltype(compare)> pq(compare);
-        
-        for (ListNode* list : lists) {
-            if (list != nullptr) {
-                pq.push(list);
-            }
         }
-        
+    };
+    ListNode* mergeKLists(vector<ListNode*>& lists) {
+      priority_queue<ListNode*, vector<ListNode*>, compare>pq;
+        for(auto node : lists){
+            if(node) pq.push(node);
+        } 
+
         ListNode dummy;
-        ListNode* current = &dummy;
-        
-        while (!pq.empty()) {
-            ListNode* minNode = pq.top();
+        ListNode *tail = &dummy;
+
+        while(!pq.empty()){
+            ListNode *top = pq.top(); 
             pq.pop();
-            
-            current->next = minNode;
-            current = current->next;
-            
-            if (minNode->next != nullptr) {
-                pq.push(minNode->next);
-            }
+            tail->next = top;
+            tail = tail->next;
+
+            if(top->next) pq.push(top->next);
         }
-        
         return dummy.next;
     }
 };
