@@ -16,11 +16,13 @@ public:
         // Step 3: Build result string
         string result = "";
         while(!maxHeap.empty()) {
-            auto [freq, ch] = maxHeap.top();
+            pair<int, char> top = maxHeap.top();  // Top element
             maxHeap.pop();
-            result.append(freq, ch);  // Append character freq times
+            // Append character 'freq' times
+            for(int i = 0; i < top.first; i++) {
+                result += top.second;
+            }
         }
-        
         return result;
     }
 };
