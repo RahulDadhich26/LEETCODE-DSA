@@ -134,6 +134,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2319-longest-substring-of-one-repeating-character) |
+| [2486-most-frequent-even-element](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2486-most-frequent-even-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2664-maximize-greatness-of-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2664-maximize-greatness-of-an-array) |
@@ -194,6 +195,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2486-most-frequent-even-element](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2486-most-frequent-even-element) |
 ## Matrix
 |  |
 | ------- |
@@ -910,6 +912,7 @@
 | [1635-number-of-good-pairs](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1635-number-of-good-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2486-most-frequent-even-element](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2486-most-frequent-even-element) |
 ## Monotonic Stack
 |  |
 | ------- |
