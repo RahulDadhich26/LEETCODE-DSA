@@ -141,6 +141,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2664-maximize-greatness-of-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2664-maximize-greatness-of-an-array) |
 | [2737-row-with-maximum-ones](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2737-row-with-maximum-ones) |
+| [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3311-ant-on-the-boundary](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/3311-ant-on-the-boundary) |
 ## Hash Table
 |  |
@@ -390,6 +391,7 @@
 | [1013-fibonacci-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1013-fibonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Bit Manipulation
 |  |
 | ------- |
