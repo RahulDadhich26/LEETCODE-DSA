@@ -117,6 +117,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1380-number-of-closed-islands](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1380-number-of-closed-islands) |
+| [1428-jump-game-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1428-jump-game-iii) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1524-string-matching-in-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -589,6 +590,7 @@
 | [1073-number-of-enclaves](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1380-number-of-closed-islands) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1428-jump-game-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1428-jump-game-iii) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2121-find-if-path-exists-in-graph) |
@@ -631,6 +633,7 @@
 | [1073-number-of-enclaves](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1380-number-of-closed-islands) |
+| [1428-jump-game-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1428-jump-game-iii) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2121-find-if-path-exists-in-graph) |
