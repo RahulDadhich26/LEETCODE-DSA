@@ -1,15 +1,23 @@
 class Solution {
 public:
-    int hIndex(vector<int>& citations) {
-          sort(citations.rbegin(), citations.rend()); // descending sort
-    int h = 0;
-    for(int i = 0; i < citations.size(); i++) {
-        if(citations[i] >= i + 1) {
-            h = i + 1;
-        } else {
-            break; // no further h possible
+    int hIndex(vector<int>& c) {
+        int n = c.size();
+        vector<int>freq(n+1,0);
+        
+        for(auto ci : c){
+            if(ci >= n){
+                freq[n]++;
+            }
+            else{
+                freq[ci]++;
+            }
         }
-    }
-    return h;
+
+       int total = 0;
+       for(int h = n ; h >= 0 ; h--){
+           total += freq[h];
+           if(total >= h) return h;
+       }
+       return 0;
     }
 };
