@@ -28,6 +28,7 @@
 | [0049-group-anagrams](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0074-search-a-2d-matrix) |
@@ -359,6 +360,7 @@
 | [0032-longest-valid-parentheses](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0096-unique-binary-search-trees) |
@@ -715,6 +717,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0409-longest-palindrome) |
