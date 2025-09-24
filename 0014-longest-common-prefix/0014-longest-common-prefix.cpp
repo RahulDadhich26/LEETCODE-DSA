@@ -7,9 +7,12 @@ public:
         string s1 = strs[0];
         string s2 = strs[n-1];
 
-        for(int i = 0 ; s1[i]!='\0' && s2[i]!='\0';i++){
-            if(s1[i]!=s2[i]) break;
-            ans += s1[i];
+         for(int i = 0; i < s1.size() && i < s2.size(); i++) {
+            if(s1[i] == s2[i]) {
+                ans += s1[i];
+            } else {
+                break;
+            }
         }
         return ans;
     }
