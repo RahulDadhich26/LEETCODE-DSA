@@ -198,6 +198,7 @@
 | [1635-number-of-good-pairs](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1635-number-of-good-pairs) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1933-number-of-different-integers-in-a-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2107-find-unique-binary-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -292,6 +293,7 @@
 | [1542-consecutive-characters](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1542-consecutive-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1933-number-of-different-integers-in-a-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2032-largest-odd-number-in-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2107-find-unique-binary-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2107-find-unique-binary-string) |
