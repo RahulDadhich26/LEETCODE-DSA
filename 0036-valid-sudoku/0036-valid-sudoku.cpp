@@ -1,44 +1,28 @@
 class Solution {
 public:
-    bool check(vector<vector<char>>& board, int iv, int jv)
-    {
-        char ch = board[iv][jv];
-        for(int c = 0 ; c < 9 ; c++)
-        {
-            if(board[iv][c]==ch && (c != jv))
-                return false;
-        }
-
-        for(int r=0 ; r<9 ; r++)
-        {
-            if(board[r][jv]==ch && (r != iv))
-                return false;
-        }
-        int startRow = floor(iv/3) * 3;
-        int startCol = floor(jv/3) * 3;
-        for(int r = startRow ; r < startRow+3 ; r++)
-        {
-            for(int c= startCol ; c<startCol+3 ; c++)
-            {
-                if(board[r][c]==ch && (r != iv) && (c != jv))
-                    return false;
-            }
-        }
-        return true;
-    }
     bool isValidSudoku(vector<vector<char>>& board) {
-        for(int i=0 ; i<9 ; i++)
-        {
-            for(int j=0 ; j<9 ; j++)
-            {
-                if(board[i][j]!='.')
-                {
-                    bool ans = check(board, i, j);
-                    if(!ans)
-                        return false;
-                }
+        bitset<9> Col[9];
+        bitset<9> Row[9];
+        bitset<9> Block[9];
+
+        for(int i=0; i<9; i++){
+            for(int j=0; j<9; j++){
+                char c = board[i][j];
+                if (c == '.') continue;
+                int x=(c-'0')%9; 
+                // Convert the character digit to an index (0-8) 0 for 9
+
+                if (Row[i][x]) return 0;
+                Row[i][x] = 1;
+
+                if (Col[j][x]) return 0;
+                Col[j][x] = 1;
+                
+                int bidx = (i / 3) * 3 + j / 3;
+                if (Block[bidx][x]) return 0;
+                Block[bidx][x] = 1;
             }
         }
-        return true;
+        return 1;
     }
 };
