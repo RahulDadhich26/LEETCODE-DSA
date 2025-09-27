@@ -18,4 +18,4 @@ public:
         if(minLength == 1e9) return 0;
         return minLength;
     }
-};
+}; 
