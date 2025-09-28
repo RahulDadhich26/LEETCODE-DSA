@@ -1,21 +1,19 @@
 class Solution {
 public:
     bool canConstruct(string ransomNote, string magazine) {
-         vector<int> count(26, 0);  // For 'a' to 'z'
+        vector<int> freq(26, 0);  // for magazine letters
 
-    // Count frequency of each char in magazine
-    for (char ch : magazine) {
-        count[ch - 'a']++;
-    }
-
-    // Check ransomNote requirements
-    for (char ch : ransomNote) {
-        if (count[ch - 'a'] == 0) {
-            return false;  // Not enough characters
+        // Count characters in magazine
+        for (char c : magazine) {
+            freq[c - 'a']++;
         }
-        count[ch - 'a']--;  // Use one occurrence
-    }
 
-    return true;
+        // Check ransomNote requirements
+        for (char c : ransomNote) {
+            if (freq[c - 'a'] == 0) return false;  // not enough letters
+            freq[c - 'a']--;
+        }
+
+        return true;
     }
 };
