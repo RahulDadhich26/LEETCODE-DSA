@@ -48,6 +48,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0136-single-number) |
@@ -168,6 +169,7 @@
 | [0076-minimum-window-substring](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -999,6 +1001,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0547-number-of-provinces) |
