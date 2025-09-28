@@ -29,6 +29,7 @@
 | [0049-group-anagrams](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0073-set-matrix-zeroes) |
@@ -214,6 +215,7 @@
 | [0036-valid-sudoku](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0079-word-search) |
@@ -424,6 +426,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0415-add-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
