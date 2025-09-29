@@ -362,6 +362,7 @@
 | [0268-missing-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0279-perfect-squares) |
 | [0415-add-strings](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0415-add-strings) |
+| [0445-add-two-numbers-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0445-add-two-numbers-ii) |
 | [0556-next-greater-element-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0556-next-greater-element-iii) |
 | [0900-reordered-power-of-2](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1013-fibonacci-number) |
@@ -517,6 +518,7 @@
 | [0234-palindrome-linked-list](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0445-add-two-numbers-ii) |
 | [0838-design-linked-list](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -856,6 +858,7 @@
 | [0234-palindrome-linked-list](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0678-valid-parenthesis-string) |
