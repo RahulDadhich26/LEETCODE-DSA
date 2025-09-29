@@ -90,6 +90,7 @@
 | [0403-frog-jump](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0403-frog-jump) |
 | [0414-third-maximum-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0414-third-maximum-number) |
 | [0419-battleships-in-a-board](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0419-battleships-in-a-board) |
+| [0435-non-overlapping-intervals](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0463-island-perimeter) |
@@ -408,6 +409,7 @@
 | [0377-combination-sum-iv](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0403-frog-jump) |
+| [0435-non-overlapping-intervals](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0583-delete-operation-for-two-strings) |
@@ -758,6 +760,7 @@
 | [0135-candy](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0409-longest-palindrome) |
+| [0435-non-overlapping-intervals](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0561-array-partition) |
@@ -896,6 +899,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0455-assign-cookies) |
