@@ -11,7 +11,7 @@
 class Solution {
 public:
     ListNode* reverseBetween(ListNode* head, int left, int right) {
-        if (!head || left == right) return head;
+    if (!head || left == right) return head;
     
     // Create dummy for edge cases
     ListNode* dummy = new ListNode(0);
