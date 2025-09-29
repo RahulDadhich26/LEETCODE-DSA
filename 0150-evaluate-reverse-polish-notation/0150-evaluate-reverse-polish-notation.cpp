@@ -1,27 +1,70 @@
 class Solution {
 public:
     int evalRPN(vector<string>& tokens) {
-        stack<int>st;
-        for(const string &token : tokens){
-            if (token == "+" || token == "-" || token == "*" || token == "/") {
-                int b = st.top();
-                st.pop();
-                int a = st.top();
-                st.pop();
-                if (token == "+") {
-                st.push(a + b);
-                } else if (token == "-") {
-                    st.push(a - b);
-                } else if (token == "*") {
-                    st.push(a * b);
-                } else if (token == "/") {
-                    st.push(a / b); 
-                }
+        stack<int> numbers;
+
+        // Iterate over each token in the Reverse Polish Notation expression
+
+        for (const string& token : tokens) {
+
+            // If the token represents a number (can be multiple digits or negative)
+
+            if (token.size() > 1 || isdigit(token[0])) {
+
+                // Convert the string token to an integer and push onto the stack
+
+                numbers.push(stoi(token));
+
+            } else { // If the token is an operator
+
+                // Pop the second operand from the stack
+
+                int operand2 = numbers.top();
+
+                numbers.pop();
+
+                // Pop the first operand from the stack
+
+                int operand1 = numbers.top();
+
+                numbers.pop();
+
+                // Perform the operation based on the type of operator
+
+                switch (token[0]) {
+
+                    case '+': // Addition
+
+                        numbers.push(operand1 + operand2);
+
+                        break;
+
+                    case '-': // Subtraction
+
+                        numbers.push(operand1 - operand2);
+
+                        break;
+
+                    case '*': // Multiplication
+
+                        numbers.push(operand1 * operand2);
+
+                        break;
+
+                    case '/': // Division
+
+                        numbers.push(operand1 / operand2);
+
+                        break;
+
+                }                
+
             }
-            else {
-                st.push(stoi(token));
-            }
+
         }
-        return st.top();
+
+        // The final result is the only number remaining on the stack
+
+        return numbers.top();
     }
 };
