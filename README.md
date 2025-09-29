@@ -281,6 +281,7 @@
 | [0205-isomorphic-strings](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0212-word-search-ii) |
+| [0224-basic-calculator](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0290-word-pattern) |
@@ -357,6 +358,7 @@
 | [0171-excel-sheet-column-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0279-perfect-squares) |
 | [0415-add-strings](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0415-add-strings) |
@@ -529,6 +531,7 @@
 | [0060-permutation-sequence](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1013-fibonacci-number) |
@@ -847,6 +850,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0234-palindrome-linked-list) |
