@@ -21,8 +21,7 @@ public:
             l2 = (l2 != nullptr) ? l2->next : nullptr;
         }
 
-        ListNode* result = dummyHead->next;
-        delete dummyHead;
-        return result;
+        
+        return dummyHead->next;
     }
 };
