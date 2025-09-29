@@ -1,37 +1,32 @@
 class MinStack {
-     stack<int> mainStack;  // Main stack to store all elements
-    stack<int> minStack; 
+private:
+   stack<int>st;
+   stack<int>minSt;
 public:
     MinStack() {
         
     }
     
     void push(int val) {
-        // Always push to main stack
-        mainStack.push(val);
-        
-        // Push to min stack if it's empty or val is <= current minimum
-        if (minStack.empty() || val <= minStack.top()) {
-            minStack.push(val);
+        st.push(val);
+        if(minSt.empty() || val <= minSt.top()){
+            minSt.push(val);
         }
     }
     
     void pop() {
-        // Check if the element being popped is the current minimum
-        if (!mainStack.empty()) {
-            if (mainStack.top() == minStack.top()) {
-                minStack.pop();  // Remove from min stack too
-            }
-            mainStack.pop();
+        if(st.top() == minSt.top()){
+            minSt.pop();
         }
+        st.pop();
     }
     
     int top() {
-        return mainStack.top();
+        return st.top();
     }
     
     int getMin() {
-        return minStack.top();
+        return minSt.top();
     }
 };
 
