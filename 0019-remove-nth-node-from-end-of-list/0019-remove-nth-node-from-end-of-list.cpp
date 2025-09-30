@@ -11,7 +11,7 @@
 class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-         int count = 0;
+    int count = 0;
     ListNode* temp = head;
 
     // Count the total number of nodes
