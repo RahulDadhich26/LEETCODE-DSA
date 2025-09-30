@@ -10,45 +10,27 @@
  */
 class Solution {
 public:
-    ListNode* reverseList(struct ListNode* head) {
-        ListNode*temp = head;
-        ListNode*prev = NULL;
-        
-        while(temp!=NULL){
-            ListNode* front = temp -> next;
-            temp -> next = prev;
-            prev= temp;
-            temp = front;
-        }
-        return prev;
-    }
-    ListNode *getKthNode(ListNode*temp ,int k){
-        k-=1;
-        while(temp!=NULL && k > 0){
-            k--;
-            temp=temp->next;
-        }
-        return temp;
-    }
     ListNode* reverseKGroup(ListNode* head, int k) {
-         ListNode* temp = head;
-        ListNode*prevNode = NULL;
-        while(temp!=NULL){
-            ListNode* kthNode = getKthNode(temp , k);
-            if(kthNode == NULL) {
-                if(prevNode) prevNode ->next = temp;
-                break;
-            }
-        ListNode* nextNode = kthNode->next;
-        kthNode->next = NULL;
-        reverseList(temp);
-        if(temp == head) head= kthNode;
-        else{
-            prevNode->next = kthNode;
+        int cnt = 0; ListNode* temp = head;
+
+        while(cnt < k){
+            if(temp == NULL) return head;
+            temp = temp->next;
+            cnt++;
         }
-        prevNode = temp ;
-        temp = nextNode;
+
+        ListNode* prevNode = reverseKGroup(temp, k);
+
+        cnt = 0; temp = head;
+
+        while(cnt < k){
+            ListNode *next = temp->next;
+            temp->next = prevNode;
+            prevNode = temp;
+            temp = next;
+
+            cnt++;
         }
-        return head;
+        return prevNode;
     }
 };
