@@ -11,22 +11,30 @@
 class Solution {
 public:
     ListNode* swapPairs(ListNode* head) {
-        if(head == NULL || head->next  == NULL){
-            return head;
-        }
-    ListNode* curr = head->next->next;
-    ListNode* prev = head;
-    head = head->next;
-    head->next = prev;
-    while(curr != NULL && curr->next != NULL){
-         prev->next = curr->next ;
-         prev = curr;
-         ListNode *temp = curr->next->next;
-         curr->next->next = curr;
-         curr = temp;
-    }
-    prev->next = curr;
-    return head;
+         if (!head || !head->next) return head;
 
+        // Step 1: First swap
+        ListNode* newHead = head->next;
+        ListNode* prev = nullptr;
+        ListNode* curr = head;
+
+        // Step 2: Traverse and swap in pairs
+        while (curr && curr->next) {
+            ListNode* nextPair = curr->next->next;
+            ListNode* second = curr->next;
+
+            // Swap
+            second->next = curr;
+            curr->next = nextPair;
+
+            // Link previous pair with current swapped pair
+            if (prev) prev->next = second;
+
+            // Update prev and curr for next round
+            prev = curr;
+            curr = nextPair;
+        }
+
+        return newHead;
     }
 };
