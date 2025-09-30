@@ -485,6 +485,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0455-assign-cookies) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0541-reverse-string-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0541-reverse-string-ii) |
 | [0556-next-greater-element-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -521,6 +522,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0445-add-two-numbers-ii) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0838-design-linked-list](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
