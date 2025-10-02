@@ -12,24 +12,18 @@
 class Solution {
 public:
     int maxsum = INT_MIN;
+    int dfs(TreeNode* node){
+        if(!node) return 0;
+        int leftgain = max(0, dfs(node->left));
+        int rightgain = max(0, dfs(node->right));
+        
+        int pricenewPath = node->val + leftgain + rightgain;
+        maxsum = max(maxsum , pricenewPath);
 
-    int maxSum(TreeNode* Node){
-        if(Node == NULL) return 0 ;
-
-        // recursively call left and right, ignore negatives
-        int leftGain = max(0, maxSum(Node->left));
-        int rightGain = max(0, maxSum(Node->right));
-
-        // V- shaped thourgh current node
-
-        int currentPath = Node->val + leftGain + rightGain;
-
-        maxsum = max(maxsum, currentPath);
-
-        return Node->val + max(leftGain, rightGain);
+        return node->val + max(leftgain,rightgain);
     }
     int maxPathSum(TreeNode* root) {
-        maxSum(root);
+        dfs(root);
         return maxsum;
     }
 };
