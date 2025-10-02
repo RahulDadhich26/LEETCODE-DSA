@@ -12,12 +12,9 @@
 class Solution {
 public:
     bool hasPathSum(TreeNode* root, int targetSum) {
-        if(root == NULL) return false;
-        
-        if(root->left == NULL && root->right == NULL) return (targetSum == root->val);
-        
-        // recursively check kro left or right.
-        int remaining = targetSum - root->val;
-        return hasPathSum(root->left,remaining) || hasPathSum(root->right,remaining);
+        if (!root) return false;
+        if (!root->left && !root->right) return root->val == targetSum;
+        return hasPathSum(root->left, targetSum - root->val) || 
+        hasPathSum(root->right, targetSum - root->val);
     }
 };
