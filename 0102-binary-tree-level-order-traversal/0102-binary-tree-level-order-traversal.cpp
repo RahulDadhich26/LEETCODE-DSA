@@ -12,9 +12,10 @@
 class Solution {
 public:
     vector<vector<int>> levelOrder(TreeNode* root) {
-        vector<vector<int>>result;
-        queue<TreeNode*>q;
-        if(root == nullptr) return result;
+        vector<vector<int>>result; // result vector
+        queue<TreeNode*>q;   // queue
+
+        if(root == nullptr) return result;  // checking root is !null
         q.push(root);
 
         while(!q.empty()){
