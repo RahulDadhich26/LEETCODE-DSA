@@ -11,27 +11,16 @@
  */
 class Solution {
 public:
+    bool isMirror(TreeNode* t1, TreeNode* t2) {
+    if (!t1 && !t2) return true;
+    if (!t1 || !t2) return false;
+    return (t1->val == t2->val) &&
+           isMirror(t1->left, t2->right) &&
+           isMirror(t1->right, t2->left);
+    }   
+
     bool isSymmetric(TreeNode* root) {
-        if(!root) return true;
-        queue<TreeNode*>q;
-        q.push(root->left);
-        q.push(root->right);
-
-        while(!q.empty()){
-            TreeNode *left = q.front(); q.pop();
-            TreeNode *right = q.front(); q.pop();
-
-            if(left == nullptr && right == nullptr) continue;
-
-            if(left == nullptr || right == nullptr || left->val != right->val){
-                return false;
-            }
-
-            q.push(left->left);
-            q.push(right->right);
-            q.push(left->right);
-            q.push(right->left);
-        }
-        return true;
+        if (!root) return true;
+        return isMirror(root->left, root->right);
     }
 };
