@@ -567,6 +567,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -607,6 +608,7 @@
 | [0200-number-of-islands](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -653,6 +655,7 @@
 | [0200-number-of-islands](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0322-coin-change) |
@@ -701,6 +704,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
