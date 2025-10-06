@@ -1,23 +1,25 @@
+// Directory: /leetcode/strings/
+// Dependencies: <bits/stdc++.h>
+
 class Solution {
 public:
     string addBinary(string a, string b) {
         int i = a.size() - 1;
         int j = b.size() - 1;
-        int carry = 0 ;
-        string ans = "";
-        while(i >= 0 || j>=0 || carry){
-            if( i>=0 ){
-                carry += (a[i] - 48);
-                i--;
-            }
-            if(j >= 0){
-                carry += (b[j] -48);
-                j--;
-            }
-            char dig = (carry % 2) + 48;
-            ans = dig + ans;
-            carry/=2;
+        int carry = 0;
+        string result = "";
+
+        while (i >= 0 || j >= 0 || carry) {
+            int sum = carry;
+
+            if (i >= 0) sum += a[i--] - '0';
+            if (j >= 0) sum += b[j--] - '0';
+
+            result += (sum % 2) + '0';  // store bit
+            carry = sum / 2;            // update carry
         }
-        return ans;
+
+        reverse(result.begin(), result.end());
+        return result;
     }
 };
