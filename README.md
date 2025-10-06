@@ -434,6 +434,7 @@
 | [0136-single-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0268-missing-number) |
@@ -813,6 +814,7 @@
 | [0148-sort-list](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0347-top-k-frequent-elements) |
