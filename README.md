@@ -202,6 +202,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0778-reorganize-string](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0778-reorganize-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0966-binary-subarrays-with-sum) |
@@ -587,6 +588,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -637,6 +639,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1380-number-of-closed-islands) |
@@ -683,6 +686,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1073-number-of-enclaves) |
@@ -734,6 +738,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/RahulDadhich26/LEETCODE-DSA/tree/master/1427-all-elements-in-two-binary-search-trees) |
